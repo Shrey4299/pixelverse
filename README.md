@@ -2,7 +2,6 @@
 
 ## A Modern web application in which you can capture your sweetest memories.   
 
-https://user-images.githubusercontent.com/64394213/152992307-94128fb1-f8c5-42c5-b877-40dedc22346f.mp4
 
 
 
